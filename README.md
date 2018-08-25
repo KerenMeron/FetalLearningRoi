@@ -1,1 +1,2 @@
-# Fetal_Learning_ROI
+# FetalLearningRoi
+UNet Neural Network to find brain ROI in fetal MRI scan
